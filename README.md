@@ -1,4 +1,4 @@
-# Hotel booking cancellation prediction using Deep Neural Network. 
+# Hotel booking cancellation prediction using Deep Neural Network 
 
 ## Dataset Description and Download
 
